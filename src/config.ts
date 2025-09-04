@@ -1,17 +1,16 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
+  name: "Sahil Sinha",
   title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  description: "Portfolio website of Sahil Sinha",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "sahilsinhahasmail@example.com",
+    linkedin: "https://www.linkedin.com/in/sahil-sinha-582995114",
+    github: "https://github.com/sahilsinhacodes",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I specialize in full-stack development with a deep proficiency in the MERN stack (MongoDB, Express.js, React.js, Node.js). My passion lies in building scalable ",
+  skills: ["Javascript", "React", "Node.js", "Python", "MondoDB", "Next.js"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
