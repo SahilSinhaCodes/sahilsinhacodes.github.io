@@ -52,6 +52,7 @@ export const siteConfig = {
       school: "Bhilai Institute of Technology",
       degree: "Bachelor of Science in Computer Science",
       dateRange: "2022- Present",
+      achievements: [],
     },
     {
       school: "Free Code Camp",
