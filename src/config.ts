@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Sahil Sinha",
-  title: "Senior Software Engineer",
+  title: "Web Developer",
   description: "Portfolio website of Sahil Sinha",
   accentColor: "#1d4ed8",
   social: {
@@ -13,77 +13,53 @@ export const siteConfig = {
   skills: ["Javascript", "React", "Node.js", "Python", "MondoDB", "Next.js"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Cloud Vault: Your one stop storage solution",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Built a secure, full-stack cloud storage web app using the Next.js App Router, Server Actions, and Tailwind CSS",
+      link: "https://cloudvault-ashen.vercel.app",
+      skills: ["Next.js", "Tailwind CSS", "Recharts"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "SkillHatch: Job Finder",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Developed a full-fledged job marketplace enabling sellers to post gigs and buyers to hire talent",
+      link: "https://skillhatch-client-new.vercel.app",
+      skills: ["React", "Node.js", "MongoDB","Stripe"],
     },
     {
-      name: "ExtensionKit",
+      name: "Game Hub",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Designed and deployed a responsive video game discovery platform. Integrated the RAWG API for real-time data fetching, allowing users to explore games, platforms, and availability.",
+      link: "https://game-hub-ruby-two.vercel.app",
+      skills: ["React", "Node.js", "Prisma","Chakra UI"],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Labmentix",
+      title: "Web Developer",
+      dateRange: "May 2025 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Engineered and maintained large-scale frontend applications using the MERN stack",
+        "Leveraged MongoDB for data and metadata interaction, ensuring scalable data governance",
+        "Applied strong problem-solving and debugging skills to enhance stability, optimize performance",
       ],
-    },
-    {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
+    }
+
   ],
   education: [
     {
-      school: "University Name",
+      school: "Bhilai Institute of Technology",
       degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
-      achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
+      dateRange: "2022- Present",
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "Free Code Camp",
+      degree: "JavaScript Data Structures and Algorithms Certificate",
+      dateRange: "2024",
       achievements: [
         "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
+        "Built 4+ portfolio projects",
         "Specialized in React and Node.js",
       ],
     },
